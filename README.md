@@ -1,3 +1,14 @@
+### rafce
+### npm start
+### npm install bootstrap
+### npm install react-bootstrap bootstrap
+### npm install react-icons
+### npm i react-router-dom
+### npm install axios
+### npm i quill
+
+### shift+alt+f to format text
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,0 +1,30 @@
+.hero-section-container{
+    padding: 50px;
+    border-radius: 0 0 50px 0; /* Border-radius for the bottom-right corner */
+    overflow: hidden; /* Ensure rounded corner effect */
+}
+
+.bg-light-blueish {
+  background-color: #26005A; /* Light blue background color */
+  color: #FFFFFF;
+}
+
+.bg-light-blueish button {
+  background-color: #B650FF; /* Light blue background color */
+  border: #B650FF;
+  color: #FFFFFF;
+}
+
+.bg-light-blueish button:hover {
+  background-color: #E4C7FF; /* Light blue background color */
+  border: #E4C7FF;
+  color: #000835;
+}
+
+
+.hook-them-for-scroll-container {
+  background-color: #FFFFFF;
+  padding: 50px;
+  text-align: center;
+  border-radius: 25px;
+}

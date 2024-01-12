@@ -1,0 +1,16 @@
+
+.notes-list-container li {
+    list-style-type: none;
+    text-decoration: none;
+}
+.notes-list-container{
+    padding: 0;
+}
+.note-representation-in-list{
+    background-color: #26005A; /* Light blue background color */
+    color: #FFFFFF;
+    border: solid black;
+    border-radius: 10px; /* Border-radius for the bottom-right corner */
+    margin: 2px;
+    padding: 10px 20px 5px 20px; /*top, rigth, bottom, left*/
+}

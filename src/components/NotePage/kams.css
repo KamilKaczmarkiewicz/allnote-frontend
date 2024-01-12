@@ -1,0 +1,9 @@
+.container-view-note{
+    display: block;
+    margin: 0 auto;
+    width: 830px; /* You can adjust the width as needed */
+}
+
+.container-view-note .btn {
+    margin: 5px; /* Adjust the margin value as needed */
+}

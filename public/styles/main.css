@@ -1,0 +1,40 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+#root{
+    background-color: #C5D5F9;
+    min-height: 100vh; 
+    font-family: 'Source Sans Pro';
+    margin: 0;
+}
+
+.alert {
+    margin-top: 1em;
+}
+
+
+.note-content {
+    width: 210mm;
+    min-height: 297mm;
+    padding: 15mm;
+    margin: 1rem;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, .5);
+    background-color: white;
+}
+
+.btn-margin{
+    margin: 5px;
+}
+
+.user-profile-form-lable {
+    width: 90%;
+    display: inline-block;
+    margin-bottom: 1em;
+}
+
+.user-profile-form-lable input{
+    width: 80%;
+    box-sizing: border-box; 
+    float: right;
+}
